@@ -62,5 +62,5 @@ The dataset contains information such as:
 
 ## Author
 
-Atharva Patil
+Atharva Patil/n
 atharvapatil0605@gmail.com.
